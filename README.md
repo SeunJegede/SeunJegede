@@ -6,21 +6,21 @@ I am a passionate Data and IT professional that specializes in Excel, Google she
 
 I enjoy deriving applicable solutions to defined problems by producing insightful data that effectively drive business decisions. 
 
-I welcome collaborative projects and tasks.
+I welcome collaborative projects and learning opportunities.
 
 ## Know more
-📖 Currently Learning: SQL, Excel and Python
+📖 Currently Learning: SQL, Excel, PowerBI and Python
 
-👩‍💻 Working on Employee Dataset analysis
+👩‍💻 Working on Data Visualisation with PowerBI and Excel
 
-🧰 Tools: mySQL, Excel, Google Sheets, Python and AWS cloud
+🧰 Tools: MySQL, Excel, Google Sheets, LookerBI, Python, PowerBI, Azure and AWS Cloud.
 
 😊 You can reach me on jegeseun@gmail.com
 
-💃 Fun fact: I have probably listened to your favorite podcast
+💃 Fun fact: I enjoy learning about human psychology and behavior.
 
 ## 🛠 Skills
-Google Sheets, Python, Excel, SQL.
+SQL, Excel, LookerBI, PowerBI and Python
 
 ## 🔗 Featured Projects
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
